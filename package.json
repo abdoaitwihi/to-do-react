@@ -1,0 +1,15 @@
+{
+  "name": "to-do-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d app"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://abdoaitwihi.github.io/to-do-react",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
